@@ -1,0 +1,143 @@
+[12:45:11:95(a0f5)] Setting ProjectFullFilePathMacro to 'T:\GameDev\GMS\BUSBOY\GAME\BUSBOY.yyp'
+[12:45:11:101(a0f5)] Setting ProjectDirMacro to 'T:\GameDev\GMS\BUSBOY\GAME'
+[12:45:11:102(a0f5)] Setting ProjectNameMacro to 'BUSBOY'
+[12:45:11:112(a0f5)] Loading project 'T:\GameDev\GMS\BUSBOY\GAME\BUSBOY.yyp'
+[12:45:13:442(a0f5)] Load project took 00:00:02.3296032
+[12:45:13:885(a0f5)] ####################################
+[12:45:13:886(a0f5)] Break in PrintException (YYDebug:57)
+[12:45:13:886(a0f5)] Reason: Exception - Project Conversion Exception
+[12:45:13:887(a0f5)] ####################################
+[12:45:13:887(a0f5)] Project Conversion Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at (Object )
+   at YoYoStudio.Resources.ProjectConversion.(GMOptionsBase_Model , GMResourceInfo_Model )
+   at YoYoStudio.Resources.ProjectConversion.ConvertResource(Guid id, GMProject _project)
+   at YoYoStudio.Resources.ProjectConversion.(Boolean , ConversionCallback ) [Update, c:\hudson\ZeusBase\ZeusGreen\YoYoStudio\IDE\Core\IDE\Resources\Management\ProjectConversion.cs, 380]
+[12:45:13:918(a0f5)] Saving project layout to: C:\Users\Tom\AppData\Roaming/GameMakerStudio2\my-name-is-thomas_783251\Layouts\GAME\BUSBOY\a6ca613b-3f22-4d9a-9fbb-491cdc706076.xml
+[12:45:13:943(a0f5)] ResourceManager resources have been cleared
+[12:45:14:43(a0f5)] ResourceManager resources have been cleared
+[12:47:47:745(a0f5)] ResourceManager resources have been cleared
+[12:47:47:791(a0f5)] starting cmd /c subst Z: "C:\Users\Tom\AppData\Local\GameMakerStudio2\GMS2TEMP"
+[12:47:47:820(a0f5)] elapsed time 00:00:00.0279739s for command "cmd" /c subst Z: "C:\Users\Tom\AppData\Local\GameMakerStudio2\GMS2TEMP" started at 09/25/2020 12:47:47
+[12:47:47:824(a0f5)] Deleting temp directory Z:/
+[12:47:47:825(a0f5)] starting cmd /c subst Z: /d
+[12:47:47:851(a0f5)] elapsed time 00:00:00.0269738s for command "cmd" /c subst Z: /d started at 09/25/2020 12:47:47
+[12:47:56:897(8c7f)] **************************************  09/25/2020  **************************************
+[12:47:56:898(8c7f)] Log.Initialise
+[12:47:56:899(8c7f)] Doing Validate Folder check...  macOS=False
+[12:47:56:920(8c7f)] OpenGLCheck : GL_VERSION="4.6.0 NVIDIA 445.87" GL_VENDOR="NVIDIA Corporation" GL_RENDERER="GeForce GTX 1080/PCIe/SSE2"
+[12:47:56:921(8c7f)] Skin: C:\ProgramData/GameMakerStudio2\Skins/Dracula
+[12:47:56:922(8c7f)] GameMakerStudio, Version=2.3.0.529, Culture=neutral, PublicKeyToken=83c29ed24e39e35e
+[12:47:56:922(8c7f)] Initialise()
+[12:47:56:923(8c7f)] Command line arguments=""
+[12:47:56:942(8c7f)] SteamAPI Init returned : False
+[12:47:56:953(8c7f)] Loading proxy settings
+[12:47:57:92(8c7f)] Checking network....
+[12:47:57:545(8c7f)] Initialise(0.0)
+[12:47:58:115(8c7f)] File exception 'Could not find a part of the path 'C:\Program Files\GameMaker Studio 2\user_cache_directory\Styles'.'
+[12:47:58:251(8c7f)] Failed to load layout 'RoomEditor_InstanceCreationNode' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:252(8c7f)] Failed to load layout 'RoomEditor_TileLayerProperties' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:253(8c7f)] Failed to load layout 'RoomEditor_LayersView' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:253(8c7f)] Failed to load layout 'RoomProperties_ViewNode' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:254(8c7f)] Failed to load layout 'RoomEditor_LayerProperties' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:254(8c7f)] Failed to load layout 'RoomEditor_ItemNode' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:255(8c7f)] Failed to load layout 'RoomEditor_LayerNodeContextMenu' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:255(8c7f)] Failed to load layout 'RoomEditor_LayerNode' from file 'C:\Program Files\GameMaker Studio 2\GUI\Skins\Dark\Layouts\room_editor_layouts.xml' as it has a duplicate name
+[12:47:58:306(8c7f)] Initialise(0.1)
+[12:47:58:458(8c7f)] Initialise(0.2)
+[12:47:58:460(8c7f)] Initialise(1)
+[12:47:58:461(8c7f)] Initialise(1.1)
+[12:47:58:517(8c7f)] Default Device: Line Out (Scarlett 2i2 USB)
+[12:47:58:530(8c7f)] Found Device: Speakers (Steam Streaming Speakers)
+[12:47:58:541(8c7f)] Found Device: Speakers (Steam Streaming Microphone)
+[12:47:58:551(8c7f)] Found Device: Line Out (Scarlett 2i2 USB)
+[12:47:58:563(8c7f)] Found Device: BenQ XL2720T (NVIDIA High Definition Audio)
+[12:47:58:564(8c7f)] Initialise(1.2)
+[12:47:58:636(8c7f)] Initialise(2)
+[12:47:58:858(8c7f)] Initialise(3)
+[12:47:58:878(8c7f)] Initialise(4)
+[12:47:58:914(8c7f)] Initialise(4.1)
+[12:47:58:915(8c7f)] Initialise(4.2)
+[12:47:58:929(8c7f)] Initialise(4.3)
+[12:47:58:929(8c7f)] Initialise(4.4)
+[12:47:58:930(8c7f)] Initialise(4.5)
+[12:47:58:931(8c7f)] Check (1)
+[12:47:58:932(8c7f)] Check (2)
+[12:47:58:937(8c7f)] DPI setting:(96,96) Native:(96,96) Window:(1024,768) Max Suggested DPI:161
+[12:47:59:584(8c7f)] Initialise(4.6)
+[12:47:59:687(8c7f)] Initialise(4.7)
+[12:47:59:689(8c7f)] Initialise(4.8)
+[12:47:59:694(8c7f)] Initialise(4.9)
+[12:47:59:696(8c7f)] Initialise(4.10)
+[12:47:59:759(8c7f)] Initialise(4.11)
+[12:47:59:760(8c7f)] Initialise(4.12)
+[12:47:59:761(8c7f)] Initialise(5)
+[12:47:59:762(8c7f)] Initialise(6)
+[12:47:59:762(8c7f)] Initialise(7)
+[12:47:59:763(8c7f)] Initialise(7.1)
+[12:47:59:783(8c7f)] Initialise(8)
+[12:47:59:784(8c7f)] Initialise(9)
+[12:47:59:784(8c7f)] Initialise(10)
+[12:47:59:811(8c7f)] LoadingState: AwaitNetworkConnectivityCheck
+[12:47:59:811(8c7f)] Initialise(11)
+[12:47:59:813(8c7f)] Initialise(11.5)
+[12:47:59:814(8c7f)] Initialise(12)
+[12:48:01:62(8c7f)] LoadingState: StartUp
+[12:48:01:78(8c7f)] LoadingState: Languages
+[12:48:01:497(8c7f)] LoadingState: UserLanguages
+[12:48:01:518(8c7f)] LoadingState: BeginUserLogin
+[12:48:01:607(8c7f)] LoadingState: UserLogin
+[12:48:01:705(8c7f)] Current assembly revision is 2.3.0.529
+[12:48:01:707(8c7f)] Update found - got 41 items
+[12:48:01:708(8c7f)] Latest revision 2.3.0.529 found
+[12:48:01:708(8c7f)] We do NOT need to update
+[12:48:03:661(8c7f)] LoadingState: Preferences
+[12:48:03:764(8c7f)] Creating temp directory C:\Users\Tom\AppData\Local\GameMakerStudio2\GMS2TEMP
+[12:48:03:846(8c7f)] LoadingState: CheckingRSS
+[12:48:03:997(8c7f)] LoadingState: DownloadManual
+[12:48:03:998(8c7f)] LoadingState: InitDnD
+[12:48:04:2(8c7f)] DnD: Installing gadgets from IDE
+[12:48:04:179(8c7f)] Discarding document aedc896b-3c9e-4a1d-b192-b7b84c3fb4a6.gml
+[12:48:04:473(8c7f)] LoadingState: UserDNDLanguages
+[12:48:04:535(8c7f)] LoadingState: PluginLanguages
+[12:48:04:556(8c7f)] LoadingState: PluginGUIResources
+[12:48:04:572(8c7f)] LoadingState: Plugins
+[12:48:07:42(8c7f)] Assembly C:\Program Files\GameMaker Studio 2\ParticleEditor.dll not signed
+[12:48:07:578(8c7f)] API restriction: The assembly '' has already loaded from a different location. It cannot be loaded from a new location within the same appdomain.
+[12:48:07:606(8c7f)] API restriction: The assembly '' has already loaded from a different location. It cannot be loaded from a new location within the same appdomain.
+[12:48:07:881(8c7f)] Failed to load keyboard definitions file:C:\Users\Tom\AppData\Roaming/GameMakerStudio2\my-name-is-thomas_783251\input.json
+[12:48:07:881(8c7f)] LoadingState: Devices
+[12:48:07:896(8c7f)] Splash screen: loading devices...
+[12:48:07:897(8c7f)] ...initialising device manager
+[12:48:07:897(8c7f)] Device Manager Load Failed: file not found
+[12:48:07:898(8c7f)] ...loading workers
+[12:48:07:899(8c7f)] ...moving to welcome page end
+[12:48:07:899(8c7f)] LoadingState: WaitOnWelcomePageEnd
+[12:48:07:900(8c7f)] ...done!
+[12:48:07:912(8c7f)] LoadingState: CheckLaunchProject
+[12:48:07:929(8c7f)] LoadingState: VerifySkinning
+[12:48:07:974(8c7f)] LoadingState: End
+[12:48:08:408(8c7f)] Reading help from zip file
+[12:48:08:809(8c7f)] Failed to load demos file:${user_directory}\Marketplace\Demos.json
+[12:48:17:848(8c7f)] Setting ProjectFullFilePathMacro to 'T:\GameDev\GMS\BUSBOY\GAME\BUSBOY.yyp'
+[12:48:17:849(8c7f)] Setting ProjectDirMacro to 'T:\GameDev\GMS\BUSBOY\GAME'
+[12:48:17:849(8c7f)] Setting ProjectNameMacro to 'BUSBOY'
+[12:48:17:864(8c7f)] Loading project 'T:\GameDev\GMS\BUSBOY\GAME\BUSBOY.yyp'
+[12:48:21:358(8c7f)] Load project took 00:00:03.4926297
+[12:48:22:152(8c7f)] ####################################
+[12:48:22:153(8c7f)] Break in PrintException (YYDebug:57)
+[12:48:22:154(8c7f)] Reason: Exception - Project Conversion Exception
+[12:48:22:154(8c7f)] ####################################
+[12:48:22:157(8c7f)] Project Conversion Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at (Object )
+   at YoYoStudio.Resources.ProjectConversion.(GMOptionsBase_Model , GMResourceInfo_Model )
+   at YoYoStudio.Resources.ProjectConversion.ConvertResource(Guid id, GMProject _project)
+   at YoYoStudio.Resources.ProjectConversion.(Boolean , ConversionCallback ) [Update, c:\hudson\ZeusBase\ZeusGreen\YoYoStudio\IDE\Core\IDE\Resources\Management\ProjectConversion.cs, 380]
+[12:48:22:262(8c7f)] Saving project layout to: C:\Users\Tom\AppData\Roaming/GameMakerStudio2\my-name-is-thomas_783251\Layouts\GAME\BUSBOY\a6ca613b-3f22-4d9a-9fbb-491cdc706076.xml
+[12:48:22:285(8c7f)] ResourceManager resources have been cleared
+[12:48:22:427(8c7f)] ResourceManager resources have been cleared
+[12:51:50:642(8c7f)] ResourceManager resources have been cleared
+[12:51:50:729(8c7f)] starting cmd /c subst Z: "C:\Users\Tom\AppData\Local\GameMakerStudio2\GMS2TEMP"
+[12:51:50:757(8c7f)] elapsed time 00:00:00.0289728s for command "cmd" /c subst Z: "C:\Users\Tom\AppData\Local\GameMakerStudio2\GMS2TEMP" started at 09/25/2020 12:51:50
+[12:51:50:765(8c7f)] Deleting temp directory Z:/
+[12:51:50:766(8c7f)] starting cmd /c subst Z: /d
+[12:51:50:795(8c7f)] elapsed time 00:00:00.0279748s for command "cmd" /c subst Z: /d started at 09/25/2020 12:51:50
